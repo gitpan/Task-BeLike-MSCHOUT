@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.68.
+signed via the Module::Signature module, version 0.70.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,22 +14,23 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 40b8e16c48804166b749404eeabb5985be28cdfd Changes
-SHA1 4fd8ebb0b76e79683f3cace70017ceb8c81331b2 LICENSE
+SHA1 2ac663aa6142d7eb25d3e12f370bcd2e360f42ea Changes
+SHA1 ab5d90883990f4a686eae8fdc59e8f2657ddac0e LICENSE
 SHA1 8232503816ff7f11808b05b3585ec5c7d5376e9a MANIFEST
-SHA1 1a8eb42046800eae1c72e289adbb3669a2e6ac96 META.yml
-SHA1 89ea57470ee7aaedf510ce8ef0888f37fbc89c58 Makefile.PL
-SHA1 e6d194cca8905ab1e3886afece82113bfbcb4ca3 README
+SHA1 916a023c549f51531a1363fb9faefc1e8757cd29 META.yml
+SHA1 b7e85875ff53b4d9e97205b9af1acb2f6e8cb29f Makefile.PL
+SHA1 15c5d3349746bffd645da27707b002d3e7437961 README
 SHA1 82d73541f0883b7044b87c3a30bfaa96224289f9 dist.ini
-SHA1 7839fedcca155c358a63464078102535188e6c98 lib/Task/BeLike/MSCHOUT.pm
+SHA1 ee5c5709a51776d7d3d388b2082c81b99de9a0f8 lib/Task/BeLike/MSCHOUT.pm
 SHA1 9433c240fe590bc404ab68ff63984df763e347ed t/release-pod-coverage.t
 SHA1 b30cbdfaf935017c4568c0c91b242438cb87786e t/release-pod-syntax.t
 SHA1 812c73cc8e8feda102370afec8c62156b7014212 t/task-bogus.t
 SHA1 dc5577d84d6015589321fed7ab730d17a80d4410 weaver.ini
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG/MacGPG2 v2.0.17 (Darwin)
+Comment: GPGTools - http://gpgtools.org
 
-iEYEARECAAYFAk3kESwACgkQ+CqvSzp9LOymhwCcCapwKUuNO05pcAJSKzdaAeo8
-BgcAnjvsCTybAbl8c0KSXPIeOu9Isaz7
-=aFpN
+iEYEARECAAYFAlFdpgwACgkQ+CqvSzp9LOxmIQCgtuXgLF/pzcnF7Sjy5xcN3y3f
+mFwAoI6F9mfSeKNRwejJVVUdH00OIgRJ
+=klCy
 -----END PGP SIGNATURE-----
